@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pYW2AvpYzaR3WyNCjYPBTydTv9DDgLGLvpt8spFhP58=",
+  "Source": "DuendeIdentityServer.IDP",
+  "BasePath": "_content/DuendeIdentityServer.IDP",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

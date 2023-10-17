@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Xk/RgTkTb14HQ+aNthIdw/NyPqd0y9ny4QMeWznpgOw=",
+  "Source": "DuendeIdentityServer.Api",
+  "BasePath": "_content/DuendeIdentityServer.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
